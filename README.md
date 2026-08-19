@@ -1,42 +1,30 @@
+# 😎|Hey! Que gusto verte!
 
- <div align="center">
- <img src="https://i.imgur.com/A6bWGFl.gif" alt="Bienvenido!!" >
- </div>
- <h1>😎|Hey! Que gusto verte!</h1>
- <p>Bienvenido a mi perfil!</p>
-        <p>Me llamo Carlos Arturo, soy de Puebla, Mexico 🇲🇽 y soy un desarrollador web jr. Soy un entusiasta de la tecnología, y me encanta aprender cosas nuevas.</p>
-        <p>Me gusta programar y crear cosas nuevas. Soy un apasionado por la programacion y la tecnologia.</p>
+Me llamo Carlos Arturo, soy de **Puebla, Mexico 🇲🇽** y soy un desarrollador web jr. Soy un entusiasta de la tecnología, y me encanta aprender cosas nuevas.
 
-<h2>Mis tecnologias ⚒️</h2>
-        <p>Estas son las tecnologia con las que he trabajado:</p>
-        <div>
-            <ul>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>JavaScript</li>
-                <li>React</li>
-                <li>Java</li>
-                <li>Git</li>
-            </ul>
-        </div>
-<h2>Me puedes encontrar en: 💻</h2>
-        <div>
-            <a href="https://github.com/Arthur0393" target="_blank">
-                <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&label=Arthur0393&color=black">
-            </a>
-            <a href="https://www.youtube.com/@Bytez_404" target="_blank">
-                <img alt="Static Badge" src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&label=Bytez_404&color=red">
-            </a>
-            <a href="https://www.twitch.tv/bytez404" target="_blank">
-                <img alt="Static Badge" src="https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=twitch&label=Bytez_404&color=purple">
-            </a>
-            <a href="https://www.instagram.com/charly_habara/" target="_blank">
-                <img alt="Static Badge" src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&label=Charly%20Habara&color=orange"> 
-            </a>
-        </div>
-    <div>
-        <h2>Proyectos destacados 🏆</h2>
-        <p>Actualmente estoy desempolvando este perfil ya que todo lo trabaje en localhost 😵‍💫🕸️</p>
-        <p>asi que...</p>
-        <p>Pronto estare subiendo proyectos frescos!</p>
-    </div>
+Me gusta _programar_ y crear _cosas nuevas_. Soy un apasionado por la programacion y la tecnologia.
+
+## Mis tecnologias ⚒️
+
+Estas son las _tecnologias_ con las que he trabajado:
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Java
+- Git
+
+## Me puedes encontrar en: 💻
+
+[![Static Badge](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&label=Arthur0393&color=black)](https://github.com/Arthur0393)
+[![Static Badge](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&label=Bytez_404&color=red)](https://youtube.com/@Bytez_404)
+[![Static Badge](https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=twitch&label=Bytez_404&color=purple)](https://twitch.tv/bytez404)
+[![Static Badge](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&label=Charly%20Habara&color=orange)](https://instagram.com/charly_habara)
+
+## Proyectos destacados 🏆
+
+> [!IMPORTANT]
+> Actualmente estoy desempolvando este perfil ya que todo lo trabaje en _localhost_ 😵‍💫🕸️
+> Asi que...
+> Pronto estare subiendo proyectos frescos!
