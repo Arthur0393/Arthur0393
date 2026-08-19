@@ -1,6 +1,8 @@
 # 😎|Hey! Que gusto verte!
 
-Me llamo Carlos Arturo, soy de **Puebla, Mexico 🇲🇽** y soy un desarrollador web jr. Soy un entusiasta de la tecnología, y me encanta aprender cosas nuevas.
+Me llamo Carlos Arturo, soy de **Puebla, Mexico 🇲🇽** y soy un desarrollador web jr. 
+
+Soy un entusiasta de la tecnología, y me encanta aprender cosas nuevas.
 
 Me gusta _programar_ y crear _cosas nuevas_. Soy un apasionado por la programacion y la tecnologia.
 
@@ -26,5 +28,7 @@ Estas son las _tecnologias_ con las que he trabajado:
 
 > [!IMPORTANT]
 > Actualmente estoy desempolvando este perfil ya que todo lo trabaje en _localhost_ 😵‍💫🕸️
+>
 > Asi que...
+>
 > Pronto estare subiendo proyectos frescos!
