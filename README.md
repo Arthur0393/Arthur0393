@@ -1,6 +1,6 @@
 # 😎|Hey! Que gusto verte!
 
-Me llamo Carlos Arturo, soy de **Puebla, Mexico 🇲🇽** y soy un desarrollador web jr. 
+Me llamo Carlos Arturo, soy de **Tlaxcala, Mexico 🇲🇽** y soy un desarrollador web jr. 
 
 Soy un entusiasta de la tecnología, y me encanta aprender cosas nuevas.
 
